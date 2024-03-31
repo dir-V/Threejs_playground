@@ -1,4 +1,3 @@
-// import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.module.js';
 import * as THREE from 'three';
 import "./style.css";
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
